@@ -18,7 +18,7 @@ Mostly watch movies, sometimes i do coding.
 ### Languages and Tools:
 
   <a href="https://skillicons.dev">
-    <img style="aspect-ratio: 1 / 1;" src="https://skillicons.dev/icons?i=html,css,javascript,ts,react,next,nodejs,express,mongodb&theme=dark" />
+    <img style="aspect-ratio: 1 / 1;" src="https://skillicons.dev/icons?i=javascript,ts,golang&theme=dark" />
   </a>
 
 <br />
